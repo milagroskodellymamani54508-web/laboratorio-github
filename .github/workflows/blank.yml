@@ -1,4 +1,4 @@
-name: Test de bienvenida
+name: Test de Bienvenida
 
 on:
   push:
